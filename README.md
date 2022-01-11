@@ -1,5 +1,4 @@
 # Spotify_Challenge
-Project at Turing College | June 2021
 <div><img style="width: 80%; " src="https://upload.wikimedia.org/wikipedia/commons/1/14/Iyyaka_Nastain_QR-Code_Spotify_Black.png" /></div>
 
 
